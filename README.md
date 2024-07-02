@@ -34,6 +34,6 @@ To use the Llama Index Query System, you will need to have the required dependen
 
 Ensure you have the following libraries installed:
 
-- `langchain`
+- `Hugging face access token`
 - `llama_index`
 - `IPython`
