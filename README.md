@@ -37,4 +37,3 @@ Ensure you have the following libraries installed:
 - `langchain`
 - `llama_index`
 - `IPython`
-"# Llama-Index-Query-System" 
